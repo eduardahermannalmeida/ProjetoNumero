@@ -5,7 +5,7 @@ O repositório ProjetoNumero armazena o Sistema de Números, nosso projeto, o ta
 
 ### Informações Ténicas:
 
-Desenvolvedores:
+Desenvolvedores: @Xenoxys1 e @eduardahermannalmeida 
 
 Linguagem:
 
