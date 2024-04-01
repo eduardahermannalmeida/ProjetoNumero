@@ -25,7 +25,7 @@ https://www.iconfinder.com
 ## Preview:
 
 ### Menu
-Este é o menu principal do Sistema, por onde pode acessar o Formulário de Cadastro e as Informações sobre o Sistema.
+Este é o Menu Principal do Sistema, por onde pode acessar o Formulário de Cadastro e as Informações sobre o Sistema.
 
 ![Menu](./ProjetoNumeroMenu.jpeg)
 
