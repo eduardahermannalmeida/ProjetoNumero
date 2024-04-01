@@ -1,4 +1,4 @@
-# Sistema de Números
+![Header](./ProjetoNumeroHeader.jpeg)
 
 ### Descrição:
 O repositório ProjetoNumero armazena o Sistema de Números, nosso projeto, o tal tem como objetivo a manipulação de números à partir de um formulário. Este projeto foi proposto no Curso Técnico de Informática do Colégio ULBRA São Lucas.
@@ -11,9 +11,10 @@ Linguagem:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Software:
+Softwares:
 
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 
 Ícones:
@@ -37,4 +38,6 @@ No Formulário de Cadastro é onde serão feitas as manipulações com os númer
 Aqui é mostrado os nomes dos desenvolvedores.
 
 ![Sobre](./ProjetoNumeroSobre.jpeg)
+
+![Footer](./ProjetoNumeroFooter.jpeg)
 
