@@ -21,6 +21,10 @@ Softwares:
 
 https://www.iconfinder.com
 
+Header/Footer:
+
+https://leviarista.github.io/github-profile-header-generator/
+
 
 ## Preview:
 
